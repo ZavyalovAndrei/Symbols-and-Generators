@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/qvj7p6rnewxe3y6f?svg=true)](https://ci.appveyor.com/project/ZavyalovAndrei/symbols-and-generators)
-main branch status badge
+[![Состояние сборки](https://ci.appveyor.com/api/projects/status/77u8wmxlwe9wabvy?svg=true)](https://ci.appveyor.com/project/ZavyalovAndrei/symbols-and-generators )
 
 
 ## Домашнее задание к лекции «Символы, итераторы, генераторы»
